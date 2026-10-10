@@ -1,17 +1,17 @@
 {
-  "version": "8a30666",
-  "build": "2026-10-02T20:23:05Z",
+  "version": "b7145a5",
+  "build": "2026-10-10T22:35:49Z",
   "file": "firmware.bin",
-  "size": 3097408,
-  "sha256": "7f9c921a1f7fdcc5734f978f12cc4d1f7d144e94007b01a60b1df3ea3edf2a37",
-  "notes": "OTA installer memory fix + auto timezone",
-  "source": "8a30666",
+  "size": 3121024,
+  "sha256": "7534dcc62c2f152eb8210e849243bbf6871a6b8df065e82bbab612dd361d09ba",
+  "notes": "Camera/skimmer/drone BLE detectors + Cell-Band Monitor; 12/24h clock + AM/PM; resumable OTA; faster WiFi join; carousel 2x fps + label-clip fix",
+  "source": "b7145a5",
   "parts": [
     {
       "file": "bootloader.bin",
       "offset": "0x0",
       "size": 22368,
-      "sha256": "3c9bd826bc39f6d9bc9a8f2eee020cb91a56a1f8ab4d1bdd43b5e6c10ab6d378"
+      "sha256": "653092be515b6f119f66a2912a967129bcbf3868fac318519aa45f80d86af861"
     },
     {
       "file": "partitions.bin",
@@ -28,8 +28,8 @@
     {
       "file": "firmware.bin",
       "offset": "0x20000",
-      "size": 3097408,
-      "sha256": "7f9c921a1f7fdcc5734f978f12cc4d1f7d144e94007b01a60b1df3ea3edf2a37"
+      "size": 3121024,
+      "sha256": "7534dcc62c2f152eb8210e849243bbf6871a6b8df065e82bbab612dd361d09ba"
     }
   ]
 }
