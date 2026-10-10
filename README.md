@@ -15,7 +15,7 @@ Hi! I coded this firmware for my T-watch Ultra just to kind of take advantage of
 Unfortunately my T-watch Ultra came with broken NFC and Haptics so I am currently unable to code features for those parts right now. Fortunately LilyGo was really nice and gave me a refund. 
 As soon as they have more of the watch back in stock I will buy again and make the firmware capable for those 2 features as well. 
 
-I want to be very upfront this whole firmware was kind of a fever dream vibe coded app that I made in about a month and a half and then made public and refined over the next month. I made this because there frankly wasn't any firmware out there that I liked. I have done dev work on the Flipper as well as some other devices and work in Cyber Security so this was a kind of fun little project for me to have a chunky looking hacker watch on my wrist.
+I want to be very upfront this whole firmware started as kind of a fever dream vibe coded app that I made in about a month and a half and then made public and refined over the next month. I made this because there frankly wasn't any firmware out there that I liked. I have done dev work on the Flipper as well as some other devices and work in Cyber Security so this was a kind of fun little project for me to have a chunky looking hacker watch on my wrist.
 
 ## Support NocSif
 
